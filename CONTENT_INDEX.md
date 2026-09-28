@@ -13,6 +13,10 @@ hreflang, sitemap, and route-manifest validation.
 | URL | File/Route | Type | Primary Keyword | Search Intent | Primary CTA | Internal-Link Role | Notes |
 |---|---|---|---|---|---|---|---|
 | `/` | `src/data/pages/home.ts` | Landing | Template Game guide | Find the best entry point | Open Wiki / Browse Guides | Hub | Replace with the configured game's main hub intent. |
+| `/gameplay` | `src/data/pages/fixed-pages.ts` (gameplay-loop) | Guide | Gameplay loop, combat and movement | Learn the core loop, new control scheme, wall-bouncing | Tips / Weapons | Hub | Covers cover combat, roadie run, active reload, new A-cover / Y-vault / L3-sprint mapping, and persistent wall-bouncing. |
+| `/tips` | `src/data/pages/fixed-pages.ts` (tips) | Guide | Tips: Gnasher, cover, movement | Sharpen combat reads | Weapons / Multiplayer | Supporting hub | Now includes active reload bar position (center-screen default + top-right toggle) and per-weapon timing windows. |
+| `/co-op` | `src/data/pages/fixed-pages.ts` (co-op) | Guide | Co-op campaign rules | Confirm online player count, split-screen, crossplay | Multiplayer / Gameplay | Answer hub | 4-player online, 2-player console split-screen, Xbox Play Anywhere confirmed. |
+| `/multiplayer` | `src/data/pages/fixed-pages.ts` (multiplayer) | Guide | Multiplayer modes and playlists | Plan Versus queues and Horde squads | Co-op / Weapons | Hub | Versus locked to 4v4 with Social / Ranked / Boot Camp playlists; Horde Siege runs four classes (Assault, Breacher, Marksman, Medic) on a 12-player / 3-squad flow. |
 | `/wiki` | `src/data/pages/wiki-pages.ts` | Guide | Template Game wiki | Understand confirmed facts | Guides / FAQ | Hub | Keep official fact base and source context here. |
 | `/guides` | `src/data/pages/guide-pages.ts` | Guide | Template Game guides | Find guide topics before launch | Wiki / Release Info | Hub | Do not invent walkthroughs before reliable details exist. |
 | `/release-date` | `src/data/pages/release-pages.ts` | Guide | Template Game release date | Check release timing and platforms | FAQ / Wiki | Supporting hub | Must stay tied to official or store sources. |

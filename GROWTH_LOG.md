@@ -6,6 +6,14 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
+### 2026-09-29 - Launch-window multiplayer, co-op, and gameplay cluster added
+
+- Task: Expand /gameplay (movement control scheme + wall-bouncing), /tips (active reload technique + center-screen HUD toggle), /co-op (4-player online + 2-player console split-screen + Xbox Play Anywhere), and /multiplayer (Versus 4v4 Social/Ranked/Boot Camp + Horde Siege four-class / 12-player / Kalona map) using the Open Beta FAQ, the E-Day Wikipedia article, the Eurogamer wall-bouncing coverage, and the Xbox Developer Direct 2026 reveal.
+- Files changed: `src/data/pages/fixed-pages.ts` (gameplay-loop, tips, co-op, multiplayer modules), `src/data/faq.ts` (new FAQ entries), `CONTENT_INDEX.md` (internal-link role updates).
+- URLs affected: `/gameplay`, `/tips`, `/co-op`, `/multiplayer` (all in-place expansion, no new URLs).
+- SEO/GEO changed: Quick answers and source modules on the four pages now cite the Open Beta FAQ and Eurogamer as first-party or launch-window media sources; the active reload cluster cross-links to the new control scheme, and the Versus 4v4 cluster cross-links to the wall-bouncing gameplay module.
+- Verification: `npm run verify` runs the shared local validation chain before push.
+
 ### 2026-09-28 - Adsterra six-unit integration completed
 
 - Task: Replace empty Adsterra placeholder values in `src/data/ads.ts` with real fixed ad codes for the six configured units (Native Banner, Banner 728x90, Banner 468x60, Banner 320x50, Banner 160x600, Smartlink).

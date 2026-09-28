@@ -771,6 +771,127 @@ export const faqItems: FAQItem[] =
     "category": "site",
     "schemaEligible": true,
     "sourceStatus": "official"
+  },
+  {
+    "id": "gameplay-loop-faq-8",
+    "question": "What is the new E-Day control scheme?",
+    "answer": "The E-Day build moves cover to the A button, vault and jump to Y, and binds the roadie run sprint to the left-stick click (L3). The Open Beta FAQ on the official gearsofwar.com newsroom documents the mapping as the launch default; mouse-and-keyboard keybindings on Steam PC are set on a separate settings page.",
+    "pageIds": [
+      "gameplay-loop"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "gameplay-loop-faq-9",
+    "question": "Is wall-bouncing in Gears of War E-Day?",
+    "answer": "Yes. Persistent wall-bouncing is in the E-Day launch build, and Eurogamer's launch-window coverage frames the technique as the new skill check that divides the community. Coalition has not published a tuning patch for the wall-bounce frame window, so treat the current behavior as the launch build until a day-one patch lands.",
+    "pageIds": [
+      "gameplay-loop"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "tips-faq-6",
+    "question": "Where is the active reload bar in E-Day?",
+    "answer": "By default the active reload bar moved to a center-screen widget above the reticle in E-Day. The Open Beta FAQ on the official gearsofwar.com newsroom documents the new position and links the HUD toggle to move the bar back to the legacy top-right slot. Veterans who want their old muscle memory can revert to top-right under Settings > HUD > Reload Bar Position.",
+    "pageIds": [
+      "tips"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "tips-faq-7",
+    "question": "Did the Prototype Lancer perfect reload get nerfed?",
+    "answer": "Yes. The August 12, 2026 beta patch reduced the Prototype Lancer perfect-reload damage bonus, so chains of perfect Prototype Lancer reloads no longer output the pre-patch damage. Veteran players who learned the Prototype Lancer rhythm in earlier beta builds need to relearn the new cap.",
+    "pageIds": [
+      "tips"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "co-op-faq-1",
+    "question": "How many players can play the Gears of War E-Day campaign in co-op?",
+    "answer": "Four players online, two players on console split-screen. The Open Beta FAQ on the official gearsofwar.com newsroom locks the 4-player online cap for the launch campaign; the same FAQ names 2-player split-screen as a console-only feature.",
+    "pageIds": [
+      "co-op"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "co-op-faq-2",
+    "question": "Does Gears of War E-Day support Xbox Play Anywhere?",
+    "answer": "Yes. The Xbox.com store page lists Xbox Play Anywhere support, so a single purchase unlocks the Xbox Series X|S and Steam PC versions and your campaign progress, unlocks, and cosmetics carry between the two stores.",
+    "pageIds": [
+      "co-op"
+    ],
+    "category": "release",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "co-op-faq-3",
+    "question": "Can Steam PC and Xbox players play co-op together in E-Day?",
+    "answer": "The per-pairing crossplay matrix for the campaign has not been published as of 2026-09-26. Recent Xbox-published shooters ship with Xbox-to-Steam cross-play enabled by default, but Coalition has not confirmed that pattern for E-Day. Check the official feature list on launch day for the per-pairing matrix.",
+    "pageIds": [
+      "co-op"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "multiplayer-faq-1",
+    "question": "Is Versus 4v4 or 5v5 in Gears of War E-Day?",
+    "answer": "4v4. The Open Beta FAQ on the official gearsofwar.com newsroom locks the launch Versus team size at 4-on-4 across Social, Ranked, and Boot Camp playlists. The older franchise 5v5 default does not apply on launch day.",
+    "pageIds": [
+      "multiplayer"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "multiplayer-faq-2",
+    "question": "What are the four classes in E-Day Horde Siege?",
+    "answer": "Assault, Breacher, Marksman, and Medic. The Open Beta FAQ on the official gearsofwar.com newsroom names the four launch classes, and the 12-player / 3-squad flow runs on the large Kalona map with a fabricator fortification loop. Class progression resets at launch, so beta unlocks do not carry over.",
+    "pageIds": [
+      "multiplayer"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "multiplayer-faq-3",
+    "question": "How many players are in a Horde Siege squad in E-Day?",
+    "answer": "12 players split into three squads of four. Each squad shares a fabricator on the Kalona map, spends energy to build fortifications between waves, and defends against escalating Locust waves. The Open Beta FAQ documents the 12-player / 3-squad flow as the launch format.",
+    "pageIds": [
+      "multiplayer"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
+  },
+  {
+    "id": "multiplayer-faq-4",
+    "question": "Do beta Horde unlocks carry into the E-Day launch?",
+    "answer": "No. The Open Beta FAQ documents a launch-day reset of Horde class progression, so skill unlocks, card levels, and class cosmetics earned in the open beta do not carry into the launch build. The cosmetic ladder tied to Horde (such as the Crush the Bug banner) re-unlocks after eight Horde extractions on Infantry difficulty or higher.",
+    "pageIds": [
+      "multiplayer"
+    ],
+    "category": "gameplay",
+    "schemaEligible": true,
+    "sourceStatus": "official"
   }
 ]
 ;
