@@ -1,71 +1,73 @@
-import { site } from "@/data/site";
 import type { PageContent } from "@/types/content";
 
-export const homePage: PageContent = {
-  id: "home",
-  translationKey: "home",
-  locale: "en-US",
-  routeKind: "home",
-  slug: "",
-  url: "/",
-  pageType: "home",
-  presentation: { shell: "home" },
-  h1: `${site.gameName} Guide Hub`,
-  seoTitle: `${site.gameName} Guide Hub | Wiki, Guides, Release Date, FAQ`,
-  metaDescription:
-    "A clean guide hub template with wiki notes, starter guides, release information, FAQs, and trust pages for a game攻略站 launch.",
-  summary:
-    "Start here for the wiki index, guide categories, launch information, and frequently asked questions.",
-  hero: {
-    eyebrow: "Unofficial guide hub",
-    subtitle: site.tagline,
-    ctas: [
-      { label: "Open Wiki", href: "/wiki" },
-      { label: "Browse Guides", href: "/guides" },
-    ],
+export const homePage: PageContent = 
+{
+  "id": "home",
+  "translationKey": "home",
+  "locale": "en-US",
+  "routeKind": "home",
+  "slug": "",
+  "url": "/",
+  "pageType": "home",
+  "presentation": {
+    "shell": "home",
+    "variant": "split-panel"
   },
-  quickAnswer:
-    "This homepage acts as the central guide hub for the selected game, linking users to wiki notes, guides, release information, and FAQs.",
-  keyFacts: [
-    { label: "Site type", value: "Unofficial guide hub" },
-    { label: "V1 page set", value: "5 content pages + 4 trust pages" },
-    { label: "Source rule", value: "Official facts only before launch" },
+  "h1": "Gears of War E Day Hub: Identity, Release, Platforms",
+  "seoTitle": "Gears of War E Day: Release Date, Platforms and Story",
+  "metaDescription": "Gears of War E Day is Xbox Game Studios' prequel shooter set on Emergence Day. Confirmed Oct 6 2026 release on Steam and Xbox Series X|S with Marcus Fenix and Dom.",
+  "summary": "Gears of War E Day is the next mainline entry in the Gears of War franchise from Xbox Game Studios and The Coalition. It is a narrative prequel set on Sera during Emergence Day, when the Locust Horde first emerged underground. The confirmed launch date is October 6, 2026 on Steam (AppID 3010850) and",
+  "hero": {
+    "eyebrow": "Homepage",
+    "subtitle": "Gears of War E Day is the next mainline entry in the Gears of War franchise from Xbox Game Studios and The Coalition. It is a narrative prequel set on Sera duri…",
+    "ctas": [
+      {
+        "label": "Release date",
+        "href": "/release"
+      },
+      {
+        "label": "Preorder",
+        "href": "/preorder"
+      }
+    ]
+  },
+  "quickAnswer": "Gears of War E Day is the next mainline entry in the Gears of War franchise from Xbox Game Studios and The Coalition. It is a narrative prequel set on Sera during Emergence Day, when the Locust Horde first emerged underground. The confirmed launch date is October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S, with Marcus Fenix and Dom Santiago as returning protagonists. This hub is the starting point for Gears of War E Day identity, release timing, platforms and launch-window questions.",
+  "keyFacts": [
+    {
+      "label": "Research date",
+      "value": "2026-09-26"
+    }
   ],
-  modules: [
+  "modules": [
     {
-      id: "start-here",
-      type: "prose",
-      heading: "Start here",
-      body:
-        "Use the wiki page for core game facts, the guides page for player-facing help, and the release page for official launch timing. Replace each placeholder with verified information before publishing.",
-      links: [
-        { label: "Wiki", href: "/wiki", description: "Core facts and game systems." },
-        { label: "Guides", href: "/guides", description: "Starter guide categories." },
-        { label: "Release Date", href: "/release-date", description: "Official launch timing." },
-      ],
-    },
-    {
-      id: "safe-launch",
-      type: "prose",
-      heading: "Safe launch baseline",
-      body:
-        "The template keeps the first version small so the launch workflow can verify routing, metadata, sitemap, robots, analytics, and Search Console submission before deeper content work begins.",
-    },
-    {
-      id: "example-entries",
-      type: "entity-grid",
-      heading: "Guide Entry Points",
-      items: [
-        { title: "Wiki", summary: "Core facts and game systems.", href: "/wiki" },
-        { title: "Guides", summary: "Starter guide categories.", href: "/guides" },
-        { title: "Release Date", summary: "Official launch timing.", href: "/release-date" },
-        { title: "FAQ", summary: "Short answers and source context.", href: "/faq" },
-      ],
-    },
+      "id": "home-launch",
+      "type": "callout",
+      "tone": "confirmed",
+      "title": "Confirmed launch: October 6, 2026",
+      "body": "Gears of War E Day is the next mainline entry in the Gears of War franchise from Xbox Game Studios and The Coalition. It is a narrative prequel set on Sera during Emergence Day, when the Locust Horde first emerged underground. The confirmed launch date is October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S, with Marcus Fenix and Dom Santiago as returning protagonists. This hub is the starting point for Gears of War E Day identity, release timing, platforms and launch-window questions."
+    }
   ],
-  faqIds: ["what-is-this-site", "is-official"],
-  relatedPageIds: ["wiki", "guides", "release-date", "faq"],
-  schemaTypes: ["WebSite", "CollectionPage", "FAQPage"],
-  sourceStatus: "internal",
-  lastReviewed: "2026-06-18",
-};
+  "faqIds": [
+    "home-faq-1",
+    "home-faq-2",
+    "home-faq-3",
+    "home-faq-4"
+  ],
+  "relatedPageIds": [
+    "about",
+    "release-status",
+    "platforms",
+    "preorder",
+    "editions",
+    "characters",
+    "weapons",
+    "locust"
+  ],
+  "schemaTypes": [
+    "Article",
+    "BreadcrumbList"
+  ],
+  "sourceStatus": "official",
+  "lastReviewed": "2026-09-26"
+}
+;

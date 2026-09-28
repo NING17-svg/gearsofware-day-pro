@@ -1,0 +1,302 @@
+[
+  {
+    "id": "home",
+    "translationKey": "home",
+    "locale": "en-US",
+    "routeKind": "home",
+    "url": "/",
+    "alternates": {
+      "en-US": "/"
+    }
+  },
+  {
+    "id": "about",
+    "translationKey": "overview",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/about",
+    "alternates": {
+      "en-US": "/about"
+    }
+  },
+  {
+    "id": "achievements",
+    "translationKey": "achievements",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/achievements",
+    "alternates": {
+      "en-US": "/achievements"
+    }
+  },
+  {
+    "id": "beta",
+    "translationKey": "beta",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/beta",
+    "alternates": {
+      "en-US": "/beta"
+    }
+  },
+  {
+    "id": "characters",
+    "translationKey": "characters",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/characters",
+    "alternates": {
+      "en-US": "/characters"
+    }
+  },
+  {
+    "id": "co-op",
+    "translationKey": "co-op",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/co-op",
+    "alternates": {
+      "en-US": "/co-op"
+    }
+  },
+  {
+    "id": "contact",
+    "translationKey": "contact",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/contact",
+    "alternates": {
+      "en-US": "/contact"
+    }
+  },
+  {
+    "id": "demo",
+    "translationKey": "demo",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/demo",
+    "alternates": {
+      "en-US": "/demo"
+    }
+  },
+  {
+    "id": "download-size",
+    "translationKey": "download-size",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/download-size",
+    "alternates": {
+      "en-US": "/download-size"
+    }
+  },
+  {
+    "id": "editions",
+    "translationKey": "editions",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/editions",
+    "alternates": {
+      "en-US": "/editions"
+    }
+  },
+  {
+    "id": "faq",
+    "translationKey": "faq",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/faq",
+    "alternates": {
+      "en-US": "/faq"
+    }
+  },
+  {
+    "id": "gameplay-loop",
+    "translationKey": "gameplay-loop",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/gameplay",
+    "alternates": {
+      "en-US": "/gameplay"
+    }
+  },
+  {
+    "id": "guides",
+    "translationKey": "guides",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/guides",
+    "alternates": {
+      "en-US": "/guides"
+    }
+  },
+  {
+    "id": "locust",
+    "translationKey": "locust",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/locust",
+    "alternates": {
+      "en-US": "/locust"
+    }
+  },
+  {
+    "id": "multiplayer",
+    "translationKey": "multiplayer",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/multiplayer",
+    "alternates": {
+      "en-US": "/multiplayer"
+    }
+  },
+  {
+    "id": "music",
+    "translationKey": "music",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/music",
+    "alternates": {
+      "en-US": "/music"
+    }
+  },
+  {
+    "id": "platforms",
+    "translationKey": "platforms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/platforms",
+    "alternates": {
+      "en-US": "/platforms"
+    }
+  },
+  {
+    "id": "preorder",
+    "translationKey": "preorder",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/preorder",
+    "alternates": {
+      "en-US": "/preorder"
+    }
+  },
+  {
+    "id": "price",
+    "translationKey": "price",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/price",
+    "alternates": {
+      "en-US": "/price"
+    }
+  },
+  {
+    "id": "privacy-policy",
+    "translationKey": "privacy-policy",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/privacy-policy",
+    "alternates": {
+      "en-US": "/privacy-policy"
+    }
+  },
+  {
+    "id": "release-status",
+    "translationKey": "release-status",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/release",
+    "alternates": {
+      "en-US": "/release"
+    }
+  },
+  {
+    "id": "reviews-and-reception",
+    "translationKey": "reviews-and-reception",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/reviews",
+    "alternates": {
+      "en-US": "/reviews"
+    }
+  },
+  {
+    "id": "steam-availability",
+    "translationKey": "steam-availability",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/steam",
+    "alternates": {
+      "en-US": "/steam"
+    }
+  },
+  {
+    "id": "story",
+    "translationKey": "story",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/story",
+    "alternates": {
+      "en-US": "/story"
+    }
+  },
+  {
+    "id": "system-requirements",
+    "translationKey": "system-requirements",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/system-requirements",
+    "alternates": {
+      "en-US": "/system-requirements"
+    }
+  },
+  {
+    "id": "terms",
+    "translationKey": "terms",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/terms",
+    "alternates": {
+      "en-US": "/terms"
+    }
+  },
+  {
+    "id": "tips",
+    "translationKey": "tips",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/tips",
+    "alternates": {
+      "en-US": "/tips"
+    }
+  },
+  {
+    "id": "walkthrough",
+    "translationKey": "walkthrough",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/walkthrough",
+    "alternates": {
+      "en-US": "/walkthrough"
+    }
+  },
+  {
+    "id": "weapons",
+    "translationKey": "weapons",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/weapons",
+    "alternates": {
+      "en-US": "/weapons"
+    }
+  },
+  {
+    "id": "wiki",
+    "translationKey": "wiki",
+    "locale": "en-US",
+    "routeKind": "fixed",
+    "url": "/wiki",
+    "alternates": {
+      "en-US": "/wiki"
+    }
+  }
+]
