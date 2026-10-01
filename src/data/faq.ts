@@ -5,7 +5,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "achievements-faq-1",
     "question": "How many achievements will Gears of War E-Day have?",
-    "answer": "The exact count is not announced as of 2026-09-26. The Gears franchise has historically shipped between roughly 50 and 80 achievement flags per mainline entry, but the confirmed E-Day total will only appear once Microsoft publishes the Xbox Live listing.",
+    "answer": "The exact count is not announced. The Gears franchise has historically shipped between roughly 50 and 80 achievement flags per mainline entry, but the confirmed E-Day total will only appear once Microsoft publishes the Xbox Live listing.",
     "pageIds": [
       "achievements"
     ],
@@ -27,7 +27,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "achievements-faq-3",
     "question": "Are any achievements missable?",
-    "answer": "The collectible-style achievement pattern in the franchise is typically missable on a single playthrough, so plan a clean sweep of every chapter. The exact list of missable flags is not announced as of 2026-09-26.",
+    "answer": "The collectible-style achievement pattern in the franchise is typically missable on a single playthrough, so plan a clean sweep of every chapter. The exact list of missable flags is not announced.",
     "pageIds": [
       "achievements"
     ],
@@ -38,7 +38,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "achievements-faq-4",
     "question": "Do co-op completions count for the campaign achievements?",
-    "answer": "Historically yes for the franchise, since co-op progress has counted toward single-player achievement unlocks in earlier Gears titles. Whether E-Day follows the same unlock rules is not announced as of 2026-09-26, so check the per-achievement description once the Xbox Live listing is live.",
+    "answer": "Historically yes for the franchise, since co-op progress has counted toward single-player achievement unlocks in earlier Gears titles. Whether E-Day follows the same unlock rules is not announced, so check the per-achievement description once the Xbox Live listing is live.",
     "pageIds": [
       "achievements"
     ],
@@ -49,7 +49,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "achievements-faq-5",
     "question": "When will the official achievements list go live?",
-    "answer": "The list typically appears on Xbox Live in the days before launch. The exact pre-publication date is not announced as of 2026-09-26; bookmark the Xbox Live URL and check back on or after the Oct 6 2026 release date.",
+    "answer": "The list typically appears on Xbox Live in the days before launch. The exact pre-publication date is not announced; bookmark the Xbox Live URL and check back on or after the Oct 6 2026 release date.",
     "pageIds": [
       "achievements"
     ],
@@ -126,7 +126,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "gameplay-loop-faq-7",
     "question": "Does Gears of War E-Day have co-op?",
-    "answer": "Yes. Campaign co-op is a confirmed pillar for Gears of War E-Day, though the specific co-op rules — split-screen versus online, two-player versus four-player — have not been published in full as of 2026-09-26.",
+    "answer": "Yes. Campaign co-op is a confirmed pillar for Gears of War E-Day, though the specific co-op rules — split-screen versus online, two-player versus four-player — have not been published in full.",
     "pageIds": [
       "gameplay-loop"
     ],
@@ -148,7 +148,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "locust-faq-2",
     "question": "Who leads the Locust in Gears of War E-Day?",
-    "answer": "A confirmed Locust leader for the E-Day campaign has not been announced as of 2026-09-26. Earlier franchise lore names Queen Myrrah as the Horde's leader, but that is dated legacy reference and not a confirmed E-Day reveal.",
+    "answer": "A confirmed Locust leader for the E-Day campaign has not been announced. Earlier franchise lore names Queen Myrrah as the Horde's leader, but that is dated legacy reference and not a confirmed E-Day reveal.",
     "pageIds": [
       "locust"
     ],
@@ -159,7 +159,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "locust-faq-3",
     "question": "Are the Locust redesigned in Gears of War E-Day?",
-    "answer": "The Coalition has not published a Locust redesign as of 2026-09-26. Preview coverage shows enemies that share visual DNA with the classic franchise roster, but a formal visual redesign has not been announced.",
+    "answer": "The Coalition has not published a Locust redesign. Preview coverage shows enemies that share visual DNA with the classic franchise roster, but a formal visual redesign has not been announced.",
     "pageIds": [
       "locust"
     ],
@@ -170,7 +170,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "locust-faq-4",
     "question": "Do the Locust have a boss fight in Gears of War E-Day?",
-    "answer": "A confirmed boss-class Locust encounter has not been published as of 2026-09-26. Preview coverage focuses on standard infantry and tactical combat rather than on a named Locust boss.",
+    "answer": "A confirmed boss-class Locust encounter has not been published. Preview coverage focuses on standard infantry and tactical combat rather than on a named Locust boss.",
     "pageIds": [
       "locust"
     ],
@@ -181,7 +181,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "locust-faq-5",
     "question": "Can you play as the Locust in Gears of War E-Day multiplayer?",
-    "answer": "A Locust-side playable faction for multiplayer or Horde mode has not been announced as of 2026-09-26. Recent franchise titles have offered Locust-side playable characters, but a confirmed E-Day multiplayer roster has not been published.",
+    "answer": "A Locust-side playable faction for multiplayer or Horde mode has not been announced. Recent franchise titles have offered Locust-side playable characters, but a confirmed E-Day multiplayer roster has not been published.",
     "pageIds": [
       "locust"
     ],
@@ -192,7 +192,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "music-faq-1",
     "question": "Who composed the Gears of War E-Day soundtrack?",
-    "answer": "The composer credit is not announced as of 2026-09-26. The Coalition's in-house audio team has historically collaborated with an external composer, but the individual name will only be confirmed when Xbox Wire or The Coalition publishes the credit.",
+    "answer": "The composer credit is not announced. The Coalition's in-house audio team has historically collaborated with an external composer, but the individual name will only be confirmed when Xbox Wire or The Coalition publishes the credit.",
     "pageIds": [
       "music"
     ],
@@ -203,7 +203,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "music-faq-2",
     "question": "What is the theme song for Gears of War E-Day?",
-    "answer": "The main menu theme has not been released as of 2026-09-26. Trailer music should not be treated as the final theme, because launch trailers are routinely swapped out before release.",
+    "answer": "The main menu theme has not been released. Trailer music should not be treated as the final theme, because launch trailers are routinely swapped out before release.",
     "pageIds": [
       "music"
     ],
@@ -214,7 +214,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "music-faq-3",
     "question": "Is there a Metallica song in Gears of War E-Day?",
-    "answer": "Not announced as of 2026-09-26. The \"Metallica song\" autocomplete query reflects franchise memory of the original Gears marketing cycle rather than a confirmed licensing deal. Wait for an official Microsoft or band announcement before treating any specific track as confirmed.",
+    "answer": "Not announced. The \"Metallica song\" autocomplete query reflects franchise memory of the original Gears marketing cycle rather than a confirmed licensing deal. Wait for an official Microsoft or band announcement before treating any specific track as confirmed.",
     "pageIds": [
       "music"
     ],
@@ -225,7 +225,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "music-faq-4",
     "question": "When will the Gears of War E-Day soundtrack release?",
-    "answer": "The soundtrack typically launches alongside the game on streaming platforms, but the exact release date and distributor are not announced as of 2026-09-26. Watch for the Xbox Wire announcement in the final pre-launch window.",
+    "answer": "The soundtrack typically launches alongside the game on streaming platforms, but the exact release date and distributor are not announced. Watch for the Xbox Wire announcement in the final pre-launch window.",
     "pageIds": [
       "music"
     ],
@@ -236,7 +236,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "music-faq-5",
     "question": "Will the soundtrack be available on vinyl?",
-    "answer": "A vinyl pressing has not been announced as of 2026-09-26. Earlier Gears soundtracks have shipped on vinyl through limited pre-order runs, so a Collector-style release is plausible, but no specific SKU has been confirmed.",
+    "answer": "A vinyl pressing has not been announced. Earlier Gears soundtracks have shipped on vinyl through limited pre-order runs, so a Collector-style release is plausible, but no specific SKU has been confirmed.",
     "pageIds": [
       "music"
     ],
@@ -302,7 +302,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "platforms-faq-2",
     "question": "Is Gears of War E Day on PlayStation 5?",
-    "answer": "No. A PS5 version of Gears of War E Day is not announced as of 2026-09-26.",
+    "answer": "No. A PS5 version of Gears of War E Day is not announced.",
     "pageIds": [
       "platforms"
     ],
@@ -313,7 +313,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "platforms-faq-3",
     "question": "Is Gears of War E Day on Nintendo Switch?",
-    "answer": "No. A Switch version is not announced as of 2026-09-26.",
+    "answer": "No. A Switch version is not announced.",
     "pageIds": [
       "platforms"
     ],
@@ -324,7 +324,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "platforms-faq-4",
     "question": "Does Gears of War E Day support cross-platform play?",
-    "answer": "Cross-platform play details are not announced as of 2026-09-26. The multiplayer page will track the official cross-play matrix once Xbox Wire or The Coalition publishes it.",
+    "answer": "Cross-platform play details are not announced. The multiplayer page will track the official cross-play matrix once Xbox Wire or The Coalition publishes it.",
     "pageIds": [
       "platforms"
     ],
@@ -335,7 +335,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "release-status-faq-1",
     "question": "When is the Gears of War E Day release date?",
-    "answer": "The Gears of War E Day release date is October 6, 2026, confirmed on the official Steam store page and Xbox Wire as of 2026-09-26.",
+    "answer": "The Gears of War E Day release date is October 6, 2026, confirmed on the official Steam store page and Xbox Wire.",
     "pageIds": [
       "release-status"
     ],
@@ -346,7 +346,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "release-status-faq-2",
     "question": "Is there a chance the date gets delayed?",
-    "answer": "No official delay note has been published as of 2026-09-26. Treat the date as confirmed unless Xbox Game Studios or The Coalition publishes an update.",
+    "answer": "No official delay note has been published. Treat the date as confirmed unless Xbox Game Studios or The Coalition publishes an update.",
     "pageIds": [
       "release-status"
     ],
@@ -357,7 +357,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "release-status-faq-3",
     "question": "What time does the game unlock on launch day?",
-    "answer": "Exact unlock times are not announced as of 2026-09-26. Xbox consoles typically unlock at midnight local time, and Steam titles commonly go live at around 16:00 UTC.",
+    "answer": "Exact unlock times are not announced. Xbox consoles typically unlock at midnight local time, and Steam titles commonly go live at around 16:00 UTC.",
     "pageIds": [
       "release-status"
     ],
@@ -368,7 +368,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "release-status-faq-4",
     "question": "Can I pre-load Gears of War E Day?",
-    "answer": "Pre-load timing is not announced as of 2026-09-26. Check the Steam store page and Xbox app closer to launch for pre-load windows.",
+    "answer": "Pre-load timing is not announced. Check the Steam store page and Xbox app closer to launch for pre-load windows.",
     "pageIds": [
       "release-status"
     ],
@@ -379,7 +379,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "reviews-and-reception-faq-1",
     "question": "Has Gears of War E-Day been reviewed yet?",
-    "answer": "Final reviews are not announced as of 2026-09-26. The only review-shaped coverage available today is preview hands-on from IGN, GameSpot, Polygon and Eurogamer. Final scored verdicts will appear on launch day.",
+    "answer": "Final reviews are not announced. The only review-shaped coverage available today is preview hands-on from IGN, GameSpot, Polygon and Eurogamer. Final scored verdicts will appear on launch day.",
     "pageIds": [
       "reviews-and-reception"
     ],
@@ -423,7 +423,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "reviews-and-reception-faq-5",
     "question": "Will PC and Xbox reviews score differently?",
-    "answer": "Historically, Xbox and PC reviews of the same first-party title carry identical editorial content, with separate platform performance notes where relevant. Whether E-Day scores diverge between PC and Xbox is not announced as of 2026-09-26; check the per-platform performance section in each individual review on launch day.",
+    "answer": "Historically, Xbox and PC reviews of the same first-party title carry identical editorial content, with separate platform performance notes where relevant. Whether E-Day scores diverge between PC and Xbox is not announced; check the per-platform performance section in each individual review on launch day.",
     "pageIds": [
       "reviews-and-reception"
     ],
@@ -456,7 +456,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "steam-availability-faq-3",
     "question": "Is Gears of War E Day Steam Deck Verified?",
-    "answer": "Steam Deck Verified status is not announced as of 2026-09-26. Check the Steam store page after launch for the official Deck Compatibility badge.",
+    "answer": "Steam Deck Verified status is not announced. Check the Steam store page after launch for the official Deck Compatibility badge.",
     "pageIds": [
       "steam-availability"
     ],
@@ -467,7 +467,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "steam-availability-faq-4",
     "question": "Will Gears of War E Day be on the Epic Games Store or Microsoft Store on PC?",
-    "answer": "A PC release outside Steam is not announced as of 2026-09-26. Steam AppID 3010850 is currently the only confirmed PC storefront listing.",
+    "answer": "A PC release outside Steam is not announced. Steam AppID 3010850 is currently the only confirmed PC storefront listing.",
     "pageIds": [
       "steam-availability"
     ],
@@ -500,7 +500,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "story-faq-3",
     "question": "How long is Gears of War E-Day?",
-    "answer": "A confirmed campaign length has not been announced as of 2026-09-26. The Coalition has not published a runtime, completionist length, or chapter count.",
+    "answer": "A confirmed campaign length has not been announced. The Coalition has not published a runtime, completionist length, or chapter count.",
     "pageIds": [
       "story"
     ],
@@ -511,7 +511,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "story-faq-4",
     "question": "Does Gears of War E-Day have multiple endings?",
-    "answer": "Multiple endings, branching plots, or story choices have not been announced as of 2026-09-26. The Coalition has not published ending details.",
+    "answer": "Multiple endings, branching plots, or story choices have not been announced. The Coalition has not published ending details.",
     "pageIds": [
       "story"
     ],
@@ -522,7 +522,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "story-faq-5",
     "question": "Who is the villain in Gears of War E-Day?",
-    "answer": "A confirmed antagonist or Locust commander for the E-Day campaign has not been announced as of 2026-09-26. Earlier franchise lore names Queen Myrrah as the Horde's leader, but that is dated legacy reference and not a confirmed E-Day reveal.",
+    "answer": "A confirmed antagonist or Locust commander for the E-Day campaign has not been announced. Earlier franchise lore names Queen Myrrah as the Horde's leader, but that is dated legacy reference and not a confirmed E-Day reveal.",
     "pageIds": [
       "story"
     ],
@@ -599,7 +599,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-1",
     "question": "Is there a full Gears of War E-Day walkthrough yet?",
-    "answer": "No. As of 2026-09-26, only pre-release preview coverage exists. A full release-game walkthrough will be possible after the Oct 6, 2026 launch. Until then, treat any third-party \"full walkthrough\" page as unverified.",
+    "answer": "No., only pre-release preview coverage exists. A full release-game walkthrough will be possible after the Oct 6, 2026 launch. Until then, treat any third-party \"full walkthrough\" page as unverified.",
     "pageIds": [
       "walkthrough"
     ],
@@ -610,7 +610,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-2",
     "question": "How many acts does Gears of War E-Day have?",
-    "answer": "A confirmed act count has not been announced as of 2026-09-26. The Coalition has not published a chapter list or named act structure.",
+    "answer": "A confirmed act count has not been announced. The Coalition has not published a chapter list or named act structure.",
     "pageIds": [
       "walkthrough"
     ],
@@ -621,7 +621,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-3",
     "question": "What is the first chapter in Gears of War E-Day?",
-    "answer": "A confirmed first chapter title or mission name has not been announced as of 2026-09-26. The Coalition has only confirmed the broad framing of the campaign opening on Sera during the surface emergence.",
+    "answer": "A confirmed first chapter title or mission name has not been announced. The Coalition has only confirmed the broad framing of the campaign opening on Sera during the surface emergence.",
     "pageIds": [
       "walkthrough"
     ],
@@ -632,7 +632,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-4",
     "question": "Are there boss fights in Gears of War E-Day?",
-    "answer": "A confirmed boss-class encounter has not been announced as of 2026-09-26. Preview coverage focuses on Locust formation combat rather than on named single-target boss fights.",
+    "answer": "A confirmed boss-class encounter has not been announced. Preview coverage focuses on Locust formation combat rather than on named single-target boss fights.",
     "pageIds": [
       "walkthrough"
     ],
@@ -643,7 +643,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-5",
     "question": "Can you play Gears of War E-Day in co-op?",
-    "answer": "Yes. Campaign co-op is confirmed for Gears of War E-Day. The specific co-op rules — split-screen versus online, two-player versus four-player — have not been published in full as of 2026-09-26.",
+    "answer": "Yes. Campaign co-op is confirmed for Gears of War E-Day. The specific co-op rules — split-screen versus online, two-player versus four-player — have not been published in full.",
     "pageIds": [
       "walkthrough"
     ],
@@ -654,7 +654,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "walkthrough-faq-6",
     "question": "What is the ending of Gears of War E-Day?",
-    "answer": "A confirmed ending has not been announced as of 2026-09-26. The Coalition is holding the campaign's climax for the Oct 6, 2026 launch.",
+    "answer": "A confirmed ending has not been announced. The Coalition is holding the campaign's climax for the Oct 6, 2026 launch.",
     "pageIds": [
       "walkthrough"
     ],
@@ -709,7 +709,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "weapons-faq-5",
     "question": "Can you customize weapons in Gears of War E-Day?",
-    "answer": "A weapon customization system has not been announced as of 2026-09-26. The Coalition has not published weapon mods, attachments, skins, or a weapon mastery system for the E-Day build.",
+    "answer": "A weapon customization system has not been announced. The Coalition has not published weapon mods, attachments, skins, or a weapon mastery system for the E-Day build.",
     "pageIds": [
       "weapons"
     ],
@@ -720,7 +720,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "weapons-faq-6",
     "question": "Are there pre-order bonus weapons in Gears of War E-Day?",
-    "answer": "Pre-order bonus weapons or weapon charms have not been announced as of 2026-09-26. The Coalition has not published a pre-order bonus list that includes weapons.",
+    "answer": "Pre-order bonus weapons or weapon charms have not been announced. The Coalition has not published a pre-order bonus list that includes weapons.",
     "pageIds": [
       "weapons"
     ],
@@ -753,7 +753,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "home-faq-3",
     "question": "Which platforms is Gears of War E Day on?",
-    "answer": "The confirmed platforms are PC via Steam and Xbox Series X|S. PS5 and Nintendo Switch versions are not announced as of 2026-09-26.",
+    "answer": "The confirmed platforms are PC via Steam and Xbox Series X|S. PS5 and Nintendo Switch versions are not announced.",
     "pageIds": [
       "home"
     ],
@@ -841,7 +841,7 @@ export const faqItems: FAQItem[] =
   {
     "id": "co-op-faq-3",
     "question": "Can Steam PC and Xbox players play co-op together in E-Day?",
-    "answer": "The per-pairing crossplay matrix for the campaign has not been published as of 2026-09-26. Recent Xbox-published shooters ship with Xbox-to-Steam cross-play enabled by default, but Coalition has not confirmed that pattern for E-Day. Check the official feature list on launch day for the per-pairing matrix.",
+    "answer": "The per-pairing crossplay matrix for the campaign has not been published. Recent Xbox-published shooters ship with Xbox-to-Steam cross-play enabled by default, but Coalition has not confirmed that pattern for E-Day. Check the official feature list on launch day for the per-pairing matrix.",
     "pageIds": [
       "co-op"
     ],
@@ -893,5 +893,4 @@ export const faqItems: FAQItem[] =
     "schemaEligible": true,
     "sourceStatus": "official"
   }
-]
-;
+];
