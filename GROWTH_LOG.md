@@ -6,7 +6,14 @@ Record every growth-relevant edit here. Keep entries short, factual, and useful 
 
 ## Change Log
 
-## Change Log
+### 2026-10-01 - Fold shows a positioning line, not a cut-off copy of the Quick Answer
+
+- Task: Stop every page from opening with the Quick Answer twice, stop the break from landing mid-word, and replace the seven callouts that repeated the Quick Answer verbatim.
+- Fold changed: All 30 `hero.subtitle` values were the Quick Answer cut at a fixed width, so the first screen showed the same sentence as both the subtitle and the Quick Answer and ended mid-word ("...any pre-order-l…"). Each page now opens with its own one-line positioning statement naming what that page covers -- written from facts the page already states, and decided page by page rather than copied across the site. `/wiki`, `/guides`, `/faq`, `/contact`, `/privacy-policy` and `/terms` previously shared one generic line, "Gears of War: E-Day reference hub."; each now says what it is for.
+- Copy changed: Every `summary` was the same mid-word cut, and it feeds RelatedLinks, the search dialog and the JSON-LD description, so the break was public in three places. A summary is now the first complete sentence of that page's Quick Answer, which keeps it grounded in the same facts. The homepage's single Key Fact was the research date, 2026-09-26; it is replaced by four reader facts the homepage already states (release date, platforms, setting, developer).
+- Modules changed: `/beta`, `/platforms`, `/preorder`, `/price`, `/release`, `/steam` and the homepage each carried a callout whose body was the Quick Answer verbatim. Each is now a data-table that restates that same page's claims as announced / not announced rows -- 5 to 7 rows each -- so the facts read as a status table instead of a second copy of the answer. No claim was added, removed or reworded; every row traces to a sentence the page's own Quick Answer already made.
+- URLs affected: None. No title, H1, canonical, page type, keyword, CTA or internal-link role changed, so `CONTENT_INDEX.md` is not revised.
+- Verification: `npm run verify` (typecheck, lint, template, content, IndexNow, static export, rendered SEO for 30 pages / 30 sitemap URLs / 30 manifest routes) passes, the render-quality audit reports 0 findings across all 30 pages, and a sweep of the exported HTML finds no unrendered Markdown link, bold marker or mid-word ellipsis.
 
 ### 2026-10-01 - Public page render-quality repair
 

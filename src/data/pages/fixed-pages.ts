@@ -16,10 +16,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Achievements: List & Seriously Guide",
     "seoTitle": "Gears of War E Day Achievements: List & Seriously Guide",
     "metaDescription": "Gears of War E Day achievements list, Gamerscore total, missable flags, the seriously achievement, and how to track them via the Xbox Live listing.",
-    "summary": "The official Gears of War E Day achievements list has not been published as of 2026-09-26, so individual names cannot be confirmed yet. Xbox Live tracks every Gears title through a single per-title listing, so the live count, Gamerscore total and any list of completion names will appear on the Xbox ",
+        "summary": "The official Gears of War E Day achievements list has not been published, so individual names cannot be confirmed yet.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "The official Gears of War E Day achievements list has not been published, so individual names cannot be confirmed yet. Xbox Live tracks every G…",
+            "subtitle": "Achievement list status, the franchise's per-title listing pattern, and where the live count appears.",
       "ctas": [
         {
           "label": "Release date",
@@ -97,10 +97,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day beta dates, access, and early access code",
     "seoTitle": "Gears of War E Day beta dates, access, and early access code",
     "metaDescription": "Gears of War E Day beta dates and how to get access. See early access codes, supported platforms, Game Pass inclusion status, and where official updates post.",
-    "summary": "A Gears of War E Day beta has not been officially confirmed as of 2026-09-26, so specific dates, supported platforms, and the early access code channel are not announced. Watch Xbox Wire and IGN's Gears of War E Day coverage for the first official beta window; Game Pass inclusion and any pre-order-l",
+        "summary": "A Gears of War E Day beta has not been officially confirmed, so specific dates, supported platforms, and the early access code channel are not announced.",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "A Gears of War E Day beta has not been officially confirmed, so specific dates, supported platforms, and the early access code channel are not …",
+            "subtitle": "Beta status, what is not announced, and which outlets post the first official window.",
       "ctas": [
         {
           "label": "Release date",
@@ -122,10 +122,21 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "A Gears of War E Day beta has not been officially confirmed, so specific dates, supported platforms, and the early access code channel are not announced. Watch Xbox Wire and IGN's Gears of War E Day coverage for the first official beta window; Game Pass inclusion and any pre-order-linked early access code remain unannounced until the publisher confirms them."
+        "type": "data-table",
+        "heading": "What is and is not announced for the beta",
+        "columns": [
+          { "key": "item", "label": "Beta item" },
+          { "key": "status", "label": "Status as of 2026-09-26" }
+        ],
+        "rows": [
+          { "item": "Beta existence", "status": "Not officially confirmed" },
+          { "item": "Beta window dates", "status": "Not announced" },
+          { "item": "Supported platforms", "status": "Not announced" },
+          { "item": "Early access code channel", "status": "Not announced" },
+          { "item": "Game Pass inclusion", "status": "Not announced" },
+          { "item": "Pre-order-linked early access", "status": "Not announced" },
+          { "item": "Source", "status": "Xbox Wire and IGN's Gears of War E Day coverage carry the first official beta window when it is published." }
+        ],
       }
     ],
     "faqIds": [],
@@ -155,10 +166,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day characters",
     "seoTitle": "Gears of War E Day characters and confirmed cast",
     "metaDescription": "Gears of War E Day characters and confirmed cast, including Marcus Fenix and Dom Santiago as the E-Day-era protagonists revealed at Xbox Developer Direct 2026.",
-    "summary": "Gears of War E Day characters confirmed by The Coalition include Marcus Fenix and Dom Santiago as the central protagonists of the E-Day story. Both were revealed during Xbox Developer Direct 2026 as the squad carrying the prequel narrative when the Locust emerge beneath Sera. Voice actor mapping for",
+        "summary": "Gears of War E Day characters confirmed by The Coalition include Marcus Fenix and Dom Santiago as the central protagonists of the E-Day story.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "Gears of War E Day characters confirmed by The Coalition include Marcus Fenix and Dom Santiago as the central protagonists of the E-Day story. Both were reveale…",
+            "subtitle": "The confirmed E Day cast, voice actor mapping, and the character questions still open.",
       "ctas": [
         {
           "label": "Release date",
@@ -241,10 +252,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day co op",
     "seoTitle": "Gears of War E Day co op campaign player count",
     "metaDescription": "Gears of War E Day co op campaign explained, including online versus local play, how many players the story supports, and what the official preview confirms.",
-    "summary": "Gears of War E Day co op is confirmed for the campaign. The Coalition has stated the story can be played in online co op, and the Xbox Developer Direct 2026 preview describes a return to the franchise's shared-campaign design. Campaign player count, couch or split-screen co op, and any Game Pass fri",
+        "summary": "Gears of War E Day co op is confirmed for the campaign.",
     "hero": {
       "eyebrow": "Explanation",
-      "subtitle": "Gears of War E Day co op is confirmed for the campaign. The Coalition has stated the story can be played in online co op, and the Xbox Developer Direct 2026 pre…",
+            "subtitle": "Campaign co-op status, the shared-campaign design, and what is unconfirmed about player count.",
       "ctas": [
         {
           "label": "Release date",
@@ -320,10 +331,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day demo availability, dates, and contents",
     "seoTitle": "Gears of War E Day demo availability, dates, and contents",
     "metaDescription": "Gears of War E Day demo availability, what content it covers, and how it differs from the multiplayer beta. Specifics use the official research date.",
-    "summary": "A standalone Gears of War E Day demo has not been officially announced as of 2026-09-26, so demo dates, supported platforms, and the content scope are not confirmed. The only confirmed trial experience is the separate multiplayer beta, which is covered on the beta page. Until an Xbox Wire announceme",
+        "summary": "A standalone Gears of War E Day demo has not been officially announced, so demo dates, supported platforms, and the content scope are not confirmed.",
     "hero": {
       "eyebrow": "Explanation",
-      "subtitle": "A standalone Gears of War E Day demo has not been officially announced, so demo dates, supported platforms, and the content scope are not confi…",
+            "subtitle": "Demo availability, the confirmed multiplayer beta, and how to read third-party demo listings.",
       "ctas": [
         {
           "label": "Release date",
@@ -395,10 +406,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day download size",
     "seoTitle": "Gears of War E Day download size and disk space",
     "metaDescription": "Gears of War E Day download size on PC and the disk space the Oct 6, 2026 Steam release will need, including pre-load and day-one patch notes.",
-    "summary": "The official Gears of War E Day download size has not been published on the Steam store page for AppID 3010850 as of 2026-09-26. The game is scheduled to launch on October 6, 2026, and a day-one install size, pre-load size, and day-one patch size are all listed as not announced. Coalition has confir",
+        "summary": "The official Gears of War E Day download size has not been published on the Steam store page for AppID 3010850.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "The official Gears of War E Day download size has not been published on the Steam store page for AppID 3010850. The game is scheduled to launch…",
+            "subtitle": "Download size status on the Steam listing, and what to plan for before launch day.",
       "ctas": [
         {
           "label": "Release date",
@@ -470,10 +481,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day editions and what's included in each tier",
     "seoTitle": "Gears of War E Day editions and what's included in each tier",
     "metaDescription": "Compare all Gears of War E Day editions, including Standard, Deluxe, Premium, and Collector's. See what's in each tier and the controller variant.",
-    "summary": "The four confirmed Gears of War E Day editions are Standard, Deluxe, Premium, and Collector's. Standard covers the base game on console or PC; Deluxe and Premium add digital bonus content, while the Collector's edition layers in physical goods and the limited-edition Xbox Wireless Controller. Per-st",
+        "summary": "The four confirmed Gears of War E Day editions are Standard, Deluxe, Premium, and Collector's.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "The four confirmed Gears of War E Day editions are Standard, Deluxe, Premium, and Collector's. Standard covers the base game on console or PC; Deluxe and Premiu…",
+            "subtitle": "The four confirmed editions and what each tier adds, from Standard to Collector's.",
       "ctas": [
         {
           "label": "Release date",
@@ -545,10 +556,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day gameplay loop, combat and movement",
     "seoTitle": "Gears of War E Day gameplay loop, combat and movement",
     "metaDescription": "Gears of War E Day gameplay loop returns to franchise cover combat, roadie run, active reload, and gore executions. Built from Xbox Developer Direct 2026 previews.",
-    "summary": "Gears of War E Day gameplay returns to the franchise's signature cover-based third-person shooter loop. Xbox Developer Direct 2026 previews confirmed cover-to-cover movement, the roadie run sprint, the active reload mechanic, melee executions with the Lancer's chainsaw bayonet, and franchise-standar",
+        "summary": "Gears of War E Day gameplay returns to the franchise's signature cover-based third-person shooter loop.",
     "hero": {
       "eyebrow": "Guide",
-      "subtitle": "Gears of War E Day gameplay returns to the franchise's signature cover-based third-person shooter loop. Xbox Developer Direct 2026 previews confirmed cover-to-c…",
+            "subtitle": "Cover combat, roadie run, active reload and melee, as confirmed in the 2026 previews.",
       "ctas": [
         {
           "label": "Release date",
@@ -649,10 +660,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Locust faction, enemy types and lore",
     "seoTitle": "Gears of War E Day Locust faction, enemy types and lore",
     "metaDescription": "Gears of War E Day Locust faction guide: confirmed enemy types, dated franchise lore, and what is not announced as of 2026-09-26.",
-    "summary": "Gears of War E Day Locust is the enemy faction players fight on Emergence Day, the moment the Locust Horde tunnels up from beneath Sera. The Coalition has shown previews of underground Locust forces at Xbox Developer Direct 2026, but a full enemy roster, named Locust leaders, and a confirmed redesig",
+        "summary": "Gears of War E Day Locust is the enemy faction players fight on Emergence Day, the moment the Locust Horde tunnels up from beneath Sera.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "Gears of War E Day Locust is the enemy faction players fight on Emergence Day, the moment the Locust Horde tunnels up from beneath Sera. The Coalition has shown…",
+            "subtitle": "The Locust faction on Emergence Day, confirmed enemy types, and the legacy lore boundary.",
       "ctas": [
         {
           "label": "Release date",
@@ -741,10 +752,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day multiplayer",
     "seoTitle": "Gears of War E Day multiplayer modes and cross-play",
     "metaDescription": "Gears of War E Day multiplayer modes, including versus, Horde, and cross-platform play status between PC and Xbox Series X|S for the Oct 6, 2026 launch.",
-    "summary": "Gears of War E Day multiplayer is confirmed for launch on October 6, 2026. The Coalition has confirmed versus multiplayer and a return of Horde mode during Xbox Developer Direct 2026 previews. Cross-platform play between PC (Steam) and Xbox Series X|S is not announced as of 2026-09-26, and the cross",
+        "summary": "Gears of War E Day multiplayer is confirmed for launch on October 6, 2026.",
     "hero": {
       "eyebrow": "Explanation",
-      "subtitle": "Gears of War E Day multiplayer is confirmed for launch on October 6, 2026. The Coalition has confirmed versus multiplayer and a return of Horde mode during Xbox…",
+            "subtitle": "Confirmed versus and Horde modes at launch, plus the open cross-play and beta questions.",
       "ctas": [
         {
           "label": "Release date",
@@ -835,10 +846,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Soundtrack: Composer & Theme Song",
     "seoTitle": "Gears of War E Day Soundtrack: Composer & Theme Song",
     "metaDescription": "Gears of War E Day soundtrack, composer credit, theme song, and the status of licensed songs and any Metallica feature ahead of launch.",
-    "summary": "The Gears of War E Day soundtrack composer credit has not been announced as of 2026-09-26. The franchise has historically relied on a small in-house audio team at The Coalition plus a contracted composer, and E Day is expected to follow that pattern, but no name has been confirmed by Xbox Wire or th",
+        "summary": "The Gears of War E Day soundtrack composer credit has not been announced.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "The Gears of War E Day soundtrack composer credit has not been announced. The franchise has historically relied on a small in-house audio team …",
+            "subtitle": "Composer and theme song status, the franchise audio pattern, and what is not confirmed.",
       "ctas": [
         {
           "label": "Release date",
@@ -916,10 +927,10 @@ export const fixedPages: PageContent[] = [
     "h1": "What Is Gears of War E Day? Identity, Setting and Timeline",
     "seoTitle": "Gears of War E Day: What It Is and Series Timeline",
     "metaDescription": "Gears of War E Day is the franchise prequel set on Sera's Emergence Day. Learn how it connects to the original Gears trilogy, plus confirmed platforms and launch.",
-    "summary": "Gears of War E Day is a narrative prequel in the Gears of War franchise from Xbox Game Studios and The Coalition, set on Sera during Emergence Day, when the Locust Horde emerged underground. The game releases October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S, with Marcus Fenix and Dom San",
+        "summary": "Gears of War E Day is a narrative prequel in the Gears of War franchise from Xbox Game Studios and The Coalition, set on Sera during Emergence Day, when the Locust Horde emerged underground.",
     "hero": {
       "eyebrow": "Explanation",
-      "subtitle": "Gears of War E Day is a narrative prequel in the Gears of War franchise from Xbox Game Studios and The Coalition, set on Sera during Emergence Day, when the Loc…",
+            "subtitle": "What Gears of War E Day is, who builds it, and where it sits on the Gears timeline.",
       "ctas": [
         {
           "label": "Release date",
@@ -1004,10 +1015,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Platforms: Confirmed Consoles and PC",
     "seoTitle": "Gears of War E Day Platforms: Xbox Series X|S and PC",
     "metaDescription": "Gears of War E Day platforms include Xbox Series X|S and PC via Steam on October 6, 2026. PS5 and Switch versions are not announced as of 2026-09-26.",
-    "summary": "Gears of War E Day platforms are confirmed for Xbox Series X|S and PC via Steam on October 6, 2026, with day-one parity as confirmed by Xbox Wire and the Steam listing (AppID 3010850). The game is next-gen-only, so Xbox One is not supported. PlayStation 5 and Nintendo Switch versions are not announc",
+        "summary": "Gears of War E Day platforms are confirmed for Xbox Series X|S and PC via Steam on October 6, 2026, with day-one parity as confirmed by Xbox Wire and the Steam listing (AppID 3010850).",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "Gears of War E Day platforms are confirmed for Xbox Series X|S and PC via Steam on October 6, 2026, with day-one parity as confirmed by Xbox Wire and the Steam …",
+            "subtitle": "Confirmed launch platforms, day-one parity, and the storefronts that are not announced.",
       "ctas": [
         {
           "label": "Release date",
@@ -1037,10 +1048,21 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "Gears of War E Day platforms are confirmed for Xbox Series X|S and PC via Steam on October 6, 2026, with day-one parity as confirmed by Xbox Wire and the Steam listing (AppID 3010850). The game is next-gen-only, so Xbox One is not supported. PlayStation 5 and Nintendo Switch versions are not announced, and no PC storefront outside Steam has been announced. Cross-platform multiplayer and cross-progression live on the multiplayer page."
+        "type": "data-table",
+        "heading": "Platform status at launch",
+        "columns": [
+          { "key": "platform", "label": "Platform" },
+          { "key": "status", "label": "Status" }
+        ],
+        "rows": [
+          { "platform": "Xbox Series X|S", "status": "Confirmed for October 6, 2026" },
+          { "platform": "PC via Steam (AppID 3010850)", "status": "Confirmed for October 6, 2026, day-one parity with console" },
+          { "platform": "Xbox One", "status": "Not supported; the game is next-gen only" },
+          { "platform": "PlayStation 5", "status": "Not announced" },
+          { "platform": "Nintendo Switch", "status": "Not announced" },
+          { "platform": "PC storefronts other than Steam", "status": "Not announced" },
+          { "platform": "Source", "status": "Cross-platform multiplayer and cross-progression are covered on the multiplayer page." }
+        ],
       }
     ],
     "faqIds": [
@@ -1075,10 +1097,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day preorder bonuses and where to reserve",
     "seoTitle": "Gears of War E Day preorder bonuses and where to reserve",
     "metaDescription": "Lock in the Gears of War E Day preorder on Xbox.com and Steam. See retailer offers, the limited-edition controller, and what each edition tier adds.",
-    "summary": "Gears of War E Day preorder is open on the Xbox.com Store for Xbox Series X|S and on the Steam store page (AppID 3010850) for PC. The physical Collector's edition is available at participating retailers where the SKU is in stock, and the limited-edition Xbox Wireless Controller is sold as part of th",
+        "summary": "Gears of War E Day preorder is open on the Xbox.com Store for Xbox Series X|S and on the Steam store page (AppID 3010850) for PC.",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "Gears of War E Day preorder is open on the Xbox.com Store for Xbox Series X|S and on the Steam store page (AppID 3010850) for PC. The physical Collector's editi…",
+            "subtitle": "Where to preorder, what the Collector's edition bundles, and where beta access is mapped.",
       "ctas": [
         {
           "label": "Release date",
@@ -1104,10 +1126,19 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "Gears of War E Day preorder is open on the Xbox.com Store for Xbox Series X|S and on the Steam store page (AppID 3010850) for PC. The physical Collector's edition is available at participating retailers where the SKU is in stock, and the limited-edition Xbox Wireless Controller is sold as part of the Collector's bundle. Beta access is mapped separately on the beta page."
+        "type": "data-table",
+        "heading": "Where to reserve",
+        "columns": [
+          { "key": "where", "label": "Store or channel" },
+          { "key": "what", "label": "What is available" }
+        ],
+        "rows": [
+          { "where": "Xbox.com Store", "what": "Preorder for Xbox Series X|S" },
+          { "where": "Steam store page (AppID 3010850)", "what": "Preorder for PC" },
+          { "where": "Participating retailers", "what": "Physical Collector's edition while the SKU is in stock" },
+          { "where": "Collector's bundle", "what": "Includes the limited-edition Xbox Wireless Controller" },
+          { "where": "Source", "what": "Beta access is mapped separately on the beta page." }
+        ],
       }
     ],
     "faqIds": [],
@@ -1138,10 +1169,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day price on PC, Xbox, and Steam in the US",
     "seoTitle": "Gears of War E Day price on PC, Xbox, and Steam in the US",
     "metaDescription": "See the published Gears of War E Day price on Xbox and Steam in U.S. dollars, including Standard MSRP, edition upgrade costs, and regional notes.",
-    "summary": "The published Gears of War E Day price for the Standard edition is shown in U.S. dollars on both the Xbox.com Store and the Steam store page for the United States. The Deluxe, Premium, and Collector's tier prices sit above the Standard MSRP on each official store, and the Deluxe upgrade from Standar",
+        "summary": "The published Gears of War E Day price for the Standard edition is shown in U.S. dollars on both the Xbox.com Store and the Steam store page for the United States.",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "The published Gears of War E Day price for the Standard edition is shown in U.S. dollars on both the Xbox.com Store and the Steam store page for the United Stat…",
+            "subtitle": "How tier pricing is published across Xbox.com and Steam, and what to confirm at checkout.",
       "ctas": [
         {
           "label": "Release date",
@@ -1167,10 +1198,20 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "The published Gears of War E Day price for the Standard edition is shown in U.S. dollars on both the Xbox.com Store and the Steam store page for the United States. The Deluxe, Premium, and Collector's tier prices sit above the Standard MSRP on each official store, and the Deluxe upgrade from Standard is anchored where the storefront lists it. Always confirm the final number at checkout, since regional promos and currency conversions vary by store."
+        "type": "data-table",
+        "heading": "Where each tier price is published",
+        "columns": [
+          { "key": "edition", "label": "Edition" },
+          { "key": "where", "label": "Where the price is shown" }
+        ],
+        "rows": [
+          { "edition": "Standard", "where": "Xbox.com Store and the Steam store page for the United States, in U.S. dollars" },
+          { "edition": "Deluxe", "where": "Above the Standard MSRP on each official store" },
+          { "edition": "Premium", "where": "Above the Standard MSRP on each official store" },
+          { "edition": "Collector's", "where": "Above the Standard MSRP on each official store" },
+          { "edition": "Deluxe upgrade from Standard", "where": "Anchored where the storefront lists it" },
+          { "edition": "Source", "where": "Confirm the final number at checkout: regional promotions and currency conversions vary by store." }
+        ],
       }
     ],
     "faqIds": [],
@@ -1200,10 +1241,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Release Date: Status and Launch Window",
     "seoTitle": "Gears of War E Day Release Date and Launch Window",
     "metaDescription": "Gears of War E Day release date is confirmed for October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S. Here's the launch window and what changes on day one.",
-    "summary": "The Gears of War E Day release date is confirmed for October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S. The date appears on the official Steam store page and Xbox Wire coverage, with no delay note as of 2026-09-26. Console launches follow Xbox's midnight-local-time convention, while Steam",
+        "summary": "The Gears of War E Day release date is confirmed for October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S.",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "The Gears of War E Day release date is confirmed for October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S. The date appears on the official Steam store …",
+            "subtitle": "The confirmed October 6, 2026 launch date, its sources, and the storefront unlock pattern.",
       "ctas": [
         {
           "label": "Release date",
@@ -1229,10 +1270,21 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "The Gears of War E Day release date is confirmed for October 6, 2026 on Steam (AppID 3010850) and Xbox Series X|S. The date appears on the official Steam store page and Xbox Wire coverage, with no delay note. Console launches follow Xbox's midnight-local-time convention, while Steam typically unlocks around 16:00 UTC on launch day. Exact pre-load windows and regional time zones are not announced."
+        "type": "data-table",
+        "heading": "Launch timing by storefront",
+        "columns": [
+          { "key": "item", "label": "Item" },
+          { "key": "detail", "label": "Detail" }
+        ],
+        "rows": [
+          { "item": "Release date", "detail": "October 6, 2026, confirmed" },
+          { "item": "Steam (AppID 3010850)", "detail": "Typically unlocks around 16:00 UTC on launch day" },
+          { "item": "Xbox Series X|S", "detail": "Midnight local time, following Xbox's launch convention" },
+          { "item": "Delay note", "detail": "None as of 2026-09-26" },
+          { "item": "Pre-load windows", "detail": "Not announced" },
+          { "item": "Regional time zones", "detail": "Not announced" },
+          { "item": "Source", "detail": "The date appears on the official Steam store page and in Xbox Wire coverage." }
+        ],
       }
     ],
     "faqIds": [
@@ -1268,10 +1320,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Reviews: Early Reception & Preview Verdict",
     "seoTitle": "Gears of War E Day Reviews: Early Reception & Preview Verdict",
     "metaDescription": "Gears of War E Day reviews and preview impressions from IGN, GameSpot, Polygon and Eurogamer, plus the review embargo lift date ahead of launch.",
-    "summary": "Final Gears of War E Day reviews will go live under embargo on Oct 6 2026, the planned release date, so the aggregate score from IGN, GameSpot, Polygon and Eurogamer is not announced as of 2026-09-26. Preview coverage from the same outlets describes E Day as a confident return to the franchise's cov",
+        "summary": "Final Gears of War E Day reviews will go live under embargo on Oct 6 2026, the planned release date, so the aggregate score from IGN, GameSpot, Polygon and Eurogamer is not announced.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "Final Gears of War E Day reviews will go live under embargo on Oct 6 2026, the planned release date, so the aggregate score from IGN, GameSpot, Polygon and Euro…",
+            "subtitle": "Embargo timing, the preview verdict across outlets, and what to expect on launch day.",
       "ctas": [
         {
           "label": "Release date",
@@ -1349,10 +1401,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Steam AppID and Store Status",
     "seoTitle": "Gears of War E Day Steam: AppID, Page and Deck Notes",
     "metaDescription": "Gears of War E Day Steam AppID 3010850 anchors the PC storefront ahead of the October 6, 2026 release. Here is what the page confirms and what is still unverified.",
-    "summary": "Yes, Gears of War E Day Steam is on AppID 3010850 at store.steampowered.com/app/3010850, and the listing is the canonical PC storefront ahead of the October 6, 2026 launch. The Steam page confirms the publisher (Xbox Game Studios), developer (The Coalition), release date and supported languages, and",
+        "summary": "Yes, Gears of War E Day Steam is on AppID 3010850 at store.steampowered.com/app/3010850, and the listing is the canonical PC storefront ahead of the October 6, 2026 launch.",
     "hero": {
       "eyebrow": "Status",
-      "subtitle": "Yes, Gears of War E Day Steam is on AppID 3010850 at store.steampowered.com/app/3010850, and the listing is the canonical PC storefront ahead of the October 6, …",
+            "subtitle": "The Steam AppID, what the listing confirms, and where console facts are covered instead.",
       "ctas": [
         {
           "label": "Release date",
@@ -1378,10 +1430,21 @@ export const fixedPages: PageContent[] = [
     "modules": [
       {
         "id": "status-snapshot",
-        "type": "callout",
-        "tone": "confirmed",
-        "title": "Status (as of 2026-09-26)",
-        "body": "Yes, Gears of War E Day Steam is on AppID 3010850 at store.steampowered.com/app/3010850, and the listing is the canonical PC storefront ahead of the October 6, 2026 launch. The Steam page confirms the publisher (Xbox Game Studios), developer (The Coalition), release date and supported languages, and serves as the primary anchor for any PC-specific facts. Console facts (Xbox Series X|S details, controller bundles, Game Pass) live on the platforms page."
+        "type": "data-table",
+        "heading": "What the Steam listing confirms",
+        "columns": [
+          { "key": "field", "label": "Field" },
+          { "key": "value", "label": "Value on the listing" }
+        ],
+        "rows": [
+          { "field": "AppID", "value": "3010850" },
+          { "field": "Store page", "value": "store.steampowered.com/app/3010850" },
+          { "field": "Publisher", "value": "Xbox Game Studios" },
+          { "field": "Developer", "value": "The Coalition" },
+          { "field": "Release date", "value": "October 6, 2026" },
+          { "field": "Role", "value": "The canonical PC storefront ahead of launch" },
+          { "field": "Source", "value": "The listing also carries the supported-language list, and is the primary anchor for PC-specific facts. Console facts live on the platforms page." }
+        ],
       }
     ],
     "faqIds": [
@@ -1417,10 +1480,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day story: setting, timeline and prequel framing",
     "seoTitle": "Gears of War E Day story: setting, timeline and prequel framing",
     "metaDescription": "Gears of War E Day story is set on Emergence Day, 14 years before the 2006 original. Confirmed beats from trailers; legacy lore labeled; ending not announced.",
-    "summary": "Gears of War E Day story is set on Emergence Day itself, the moment the Locust Horde tunnels up from beneath the planet Sera. The Coalition confirmed at Xbox Developer Direct 2026 that the campaign follows Marcus Fenix and Dom Santiago during the opening hours of the Locust War. E Day sits 14 years ",
+        "summary": "Gears of War E Day story is set on Emergence Day itself, the moment the Locust Horde tunnels up from beneath the planet Sera.",
     "hero": {
       "eyebrow": "Explanation",
-      "subtitle": "Gears of War E Day story is set on Emergence Day itself, the moment the Locust Horde tunnels up from beneath the planet Sera. The Coalition confirmed at Xbox De…",
+            "subtitle": "Where E Day sits on the Sera timeline, the confirmed plot spine, and the open questions.",
       "ctas": [
         {
           "label": "Release date",
@@ -1516,10 +1579,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day system requirements",
     "seoTitle": "Gears of War E Day system requirements for PC and 4K",
     "metaDescription": "Gears of War E Day system requirements for PC, including the expected minimum and recommended spec tiers for the Oct 6, 2026 Steam release and SSD notes.",
-    "summary": "Gears of War E Day system requirements have not been published on the Steam store page as of 2026-09-26. The game is listed under Steam AppID 3010850 with an October 6, 2026 release window, and The Coalition has not released a public minimum, recommended, or 4K spec sheet. Expect a Unreal Engine 5-b",
+        "summary": "Gears of War E Day system requirements have not been published on the Steam store page.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "Gears of War E Day system requirements have not been published on the Steam store page. The game is listed under Steam AppID 3010850 with an Oc…",
+            "subtitle": "Spec sheet status on the Steam listing, and what to expect from the PC build.",
       "ctas": [
         {
           "label": "Release date",
@@ -1595,10 +1658,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day Tips: Gnasher, Cover & Movement Guide",
     "seoTitle": "Gears of War E Day Tips: Gnasher, Cover & Movement Guide",
     "metaDescription": "Sharp Gears of War E Day tips on Gnasher duels, cover-to-cover movement, active reload timing, melee chains and multiplayer survival before launch.",
-    "summary": "These Gears of War E Day tips distill preview coverage from IGN and GameSpot, plus the franchise's design language. The Gnasher still wins close-range duels when you stop sliding before firing, roadie run is your fastest break from enemy lines, and the active reload bar is the biggest ammo saver. Us",
+        "summary": "These Gears of War E Day tips distill preview coverage from IGN and GameSpot, plus the franchise's design language.",
     "hero": {
       "eyebrow": "Guide",
-      "subtitle": "These Gears of War E Day tips distill preview coverage from IGN and GameSpot, plus the franchise's design language. The Gnasher still wins close-range duels whe…",
+            "subtitle": "Combat fundamentals from preview coverage: Gnasher range, roadie run, active reload.",
       "ctas": [
         {
           "label": "Release date",
@@ -1691,10 +1754,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day walkthrough, acts and progression order",
     "seoTitle": "Gears of War E Day walkthrough, acts and progression order",
     "metaDescription": "Gears of War E Day walkthrough: pre-release scope only. Confirmed act structure from official previews; unannounced chapter names, bosses, and content labeled.",
-    "summary": "Gears of War E Day walkthrough is built on pre-release preview coverage only. The Coalition confirmed during Xbox Developer Direct 2026 that the campaign opens during the Locust emergence on Sera, with Marcus Fenix and Dom Santiago as the central protagonists. A confirmed act structure, chapter list",
+        "summary": "Gears of War E Day walkthrough is built on pre-release preview coverage only.",
     "hero": {
       "eyebrow": "Guide",
-      "subtitle": "Gears of War E Day walkthrough is built on pre-release preview coverage only. The Coalition confirmed during Xbox Developer Direct 2026 that the campaign opens …",
+            "subtitle": "What pre-release coverage establishes about acts and progression, and what it does not.",
       "ctas": [
         {
           "label": "Release date",
@@ -1780,10 +1843,10 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War E Day weapons: Gnasher, Lancer and heavy gear",
     "seoTitle": "Gears of War E Day weapons: Gnasher, Lancer and heavy gear",
     "metaDescription": "Gears of War E Day weapons roster covers confirmed Lancer, Gnasher, and signature heavy weapons from Xbox Developer Direct 2026 previews. Unannounced gear labeled.",
-    "summary": "Gears of War E Day weapons preview is built from Xbox Developer Direct 2026 coverage and the GameSpot hands-on preview. The Coalition confirmed the Lancer assault rifle with chainsaw bayonet and the Gnasher shotgun as returning franchise staples, plus a signature heavy weapon set that carries throug",
+        "summary": "Gears of War E Day weapons preview is built from Xbox Developer Direct 2026 coverage and the GameSpot hands-on preview.",
     "hero": {
       "eyebrow": "Reference",
-      "subtitle": "Gears of War E Day weapons preview is built from Xbox Developer Direct 2026 coverage and the GameSpot hands-on preview. The Coalition confirmed the Lancer assau…",
+            "subtitle": "The confirmed returning arsenal, the heavy weapon set, and the stats that are not announced.",
       "ctas": [
         {
           "label": "Release date",
@@ -1867,9 +1930,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War: E-Day Wiki Hub",
     "seoTitle": "Gears of War: E-Day Wiki | Characters, Story, Weapons, Locust",
     "metaDescription": "Wiki hub for Gears of War: E-Day — characters, story, weapons, Locust faction and reference material.",
-    "summary": "Wiki hub for Gears of War: E-Day — confirmed characters, story setting, weapons, Locust faction and E-Day reference material.",
+        "summary": "Use the wiki hub to jump into Gears of War: E-Day characters, the story setting, confirmed weapons and the Locust faction.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "Confirmed characters, story setting, weapons and the Locust faction for Gears of War E Day.",
       "ctas": [
         {
           "label": "Release date",
@@ -1951,9 +2014,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War: E-Day Guides Hub",
     "seoTitle": "Gears of War: E-Day Guides | Gameplay, Walkthrough, Tips",
     "metaDescription": "Guides hub for Gears of War: E-Day — gameplay loop, walkthrough, cover combat tips, multiplayer and co-op coverage.",
-    "summary": "Guides hub for Gears of War: E-Day — gameplay loop, walkthrough, cover combat tips, multiplayer and co-op coverage.",
+        "summary": "The guides hub pulls together Gears of War: E-Day gameplay, walkthrough, cover combat tips, multiplayer and co-op coverage.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "Gameplay, walkthrough, cover combat tips, multiplayer and co-op for the launch window.",
       "ctas": [
         {
           "label": "Release date",
@@ -2040,9 +2103,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Gears of War: E-Day FAQ",
     "seoTitle": "Gears of War: E-Day FAQ | Common Questions",
     "metaDescription": "Frequently asked questions about Gears of War: E-Day — release date, platforms, preorder, characters, weapons and multiplayer.",
-    "summary": "FAQ for Gears of War: E-Day — release date, platforms, preorder, characters, weapons and multiplayer questions answered with current sources.",
+        "summary": "This FAQ summarises the most common launch-window questions about Gears of War: E-Day — release date, platforms, preorder, characters, weapons and multiplayer.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "Release date, platforms, preorder, characters, weapons and multiplayer in one place.",
       "ctas": [
         {
           "label": "Release date",
@@ -2134,9 +2197,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Contact Gears of War: E-Day Hub",
     "seoTitle": "Contact | Gears of War: E-Day Hub",
     "metaDescription": "How to reach the Gears of War: E-Day editorial team for corrections, sourcing questions and feedback.",
-    "summary": "Contact and feedback information for the Gears of War: E-Day editorial team.",
+        "summary": "Email support@gearsofware-day.pro for sourcing questions, corrections and editorial feedback on Gears of War: E-Day pages.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "Where to send sourcing questions, corrections and editorial feedback about these pages.",
       "ctas": [
         {
           "label": "Release date",
@@ -2191,9 +2254,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Privacy Policy | Gears of War: E-Day Hub",
     "seoTitle": "Privacy Policy | Gears of War: E-Day Hub",
     "metaDescription": "Privacy policy for the Gears of War: E-Day editorial hub covering analytics, cookies and third-party services.",
-    "summary": "Privacy policy for the Gears of War: E-Day editorial hub — analytics, cookies and third-party services.",
+        "summary": "Gears of War: E-Day Hub uses Google Analytics 4 for aggregate traffic measurement and Bing Webmaster Tools for sitemap submission.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "What this hub measures with Google Analytics 4 and Bing Webmaster Tools.",
       "ctas": [
         {
           "label": "Release date",
@@ -2252,9 +2315,9 @@ export const fixedPages: PageContent[] = [
     "h1": "Terms of Use | Gears of War: E-Day Hub",
     "seoTitle": "Terms of Use | Gears of War: E-Day Hub",
     "metaDescription": "Terms of use for the Gears of War: E-Day editorial hub.",
-    "summary": "Terms of use for the Gears of War: E-Day editorial hub.",
+        "summary": "Gears of War: E-Day Hub is an unofficial editorial reference.",
     "hero": {
-      "subtitle": "Gears of War: E-Day reference hub.",
+            "subtitle": "The hub's editorial scope, its unofficial status, and the trademark position.",
       "ctas": [
         {
           "label": "Release date",
